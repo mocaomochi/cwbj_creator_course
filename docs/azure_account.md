@@ -22,3 +22,8 @@ Azureポータルで使用状況を定期的に確認し、無料枠を超えな
 
 ### 5. 12ヶ月後の料金
 - 12ヶ月の無料期間が終了すると、無料枠のサービスも従量課金制に移行します。
+
+## 参考サイト
+- [Azure無料アカウントでの課金を避ける](https://learn.microsoft.com/ja-jp/azure/cost-management-billing/manage/avoid-charges-free-account)
+- [Azure無料アカウントで無料サービスの利用状況を確認する](https://learn.microsoft.com/ja-jp/azure/cost-management-billing/manage/check-free-service-usage?source=recommendations)
+- [無料のAzureサービスを詳しく見る](https://azure.microsoft.com/ja-jp/pricing/free-services/)
